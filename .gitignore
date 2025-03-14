@@ -1,0 +1,16 @@
+# Ignorar a pasta node_modules (para projetos Node.js)
+#node_modules/
+
+# Ignorar arquivos de configuração de ambiente
+#.env
+
+# Ignorar arquivos de logs
+#*.log
+
+# Ignorar diretório de build
+bin/
+.settings/
+
+# Ignorar arquivos específicos
+#secrets.txt
+#config/local.json
